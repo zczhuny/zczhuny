@@ -1,0 +1,7 @@
+s = [12,23,34,45,56,67,78,89,90]
+print(s[0])
+print(s[-1])
+s.append(100)
+print(len(s))
+s[2] = 80
+print(s)
