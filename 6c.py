@@ -1,6 +1,6 @@
 d = {}
 t = input()
-p = ""
+
 for i in t:
     if i == " ":
         continue
